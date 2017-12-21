@@ -1,0 +1,19 @@
+{
+  enode: "enode://2446a14f3035297e978faf5919ee229b6d235babf36df1d1e212aa15900388674698d38fa9ebb0c7a0a52ad51a4819bb88f6ce7cc6a66cab23bd6b687a8e9112@[::]:30303",
+  id: "2446a14f3035297e978faf5919ee229b6d235babf36df1d1e212aa15900388674698d38fa9ebb0c7a0a52ad51a4819bb88f6ce7cc6a66cab23bd6b687a8e9112",
+  ip: "::",
+  listenAddr: "[::]:30303",
+  name: "Geth/v1.6.6-unstable/darwin-amd64/go1.8.3",
+  ports: {
+    discovery: 30303,
+    listener: 30303
+  },
+  protocols: {
+    eth: {
+      difficulty: 438929650,
+      genesis: "0x5e1fc79cb4ffa4739177b5408045cd5d51c6cf766133f23f7cd72ee1f8d790e0",
+      head: "0x9254a5f054cb3c46a2638bd46f5ff7cae1ba94cf64ed82d839ea67f1791f2e66",
+      network: 1
+    }
+  }
+}
